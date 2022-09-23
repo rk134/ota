@@ -1,12 +1,12 @@
 {
   "updates": [
     {
-                  "date": "2022-09-23",
-                  "datetime": "20220923",
-                  "filename": "aospa-topaz-1-alioth-alpha-20220923.zip",
-                  "url": "https://github.com/gotenksIN/ota/releases/download/alpha1/aospa-topaz-1-alioth-alpha-20220923.zip",
-                  "id": "803f31b54c8b53a043891546233be001",
-                  "size": "2033179299",
+                  "date": "2022-09-24",
+                  "datetime": "20220924",
+                  "filename": "aospa-topaz-1-alioth-alpha-20220924.zip",
+                  "url": "https://github.com/gotenksIN/ota/releases/download/alpha-1/aospa-topaz-1-alioth-alpha-20220924.zip",
+                  "id": "23e1cd3cabcd9bc028dd45e5a4938acc",
+                  "size": "2033180403",
                   "romtype": "Alpha",
                   "number" : "1",
                   "version": "Topaz"
