@@ -1,10 +1,10 @@
 {
   "updates": [
     {
-                  "date": "2022-09-24",
-                  "datetime": "20220924",
-                  "filename": "aospa-topaz-1-alioth-alpha-20220924.zip",
-                  "url": "https://github.com/gotenksIN/ota/releases/download/alpha-1/aospa-topaz-1-alioth-alpha-20220924.zip",
+                  "date": "2022-09-25",
+                  "datetime": "20220925",
+                  "filename": "aospa-topaz-1-alioth-alpha-20220925.zip",
+                  "url": "https://drive.angerycat.workers.dev/Aria/aospa-topaz-1-alioth-alpha-20220925.zip",
                   "id": "23e1cd3cabcd9bc028dd45e5a4938acc",
                   "size": "2033180403",
                   "romtype": "Alpha",
