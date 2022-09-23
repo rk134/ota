@@ -1,0 +1,8 @@
+{
+    "ota_configuration": [
+        {
+            "enabled": "true",
+            "whitelist_only": "false"
+        }
+    ]
+}
