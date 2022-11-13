@@ -2,11 +2,11 @@
   "updates": [
     {
       "date": "2022-13-11",
-      "datetime": "1668338439",
+      "datetime": "1668358580",
       "filename": "aospa-topaz-beta-1-alioth-20221113.zip",
-      "url": "https://drive.genos-drive.workers.dev/aospa-topaz-beta-1-alioth-20221113.zip",
-      "id": "a68db566c47e030c49854e58be3da29731bcc1dfba48e4e2cee860d2bc66bb1c",
-      "size": "2118792083",
+      "url": "https://drive.angerycat.workers.dev/Aria/aospa-topaz-beta-1-alioth-20221113-image.zip",
+      "id": "2de3791f880eee4fdef95233ca945887322c2e90c5f8d4a4ef0a7fbc21602ed4",
+      "size": "2118792196",
       "romtype": "Beta",
       "number": "1",
       "version": "Topaz", 
