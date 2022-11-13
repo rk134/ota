@@ -2,22 +2,12 @@
     "changelog": [
         {
             "version": "Topaz",
-            "romtype": "Alpha",
-            "number": "2",
-            "id": "2022-24-09-aospa-topaz-alpha",
-            "info": "<li>3 finger swipe screenshot<li/>
-                     <li>Face-based auto-rotate settings<li/>
-                     <li>Custom vibration patterns<li/>
-                     <li>Screen off gestures<li/>
-                     <li>Adaptive playback (smart pause)<li/>
-                     <li>Volume long press skip track<li/>
-                     <li>Linked and unlinked notification, and ringer sound toggle<li/>
-                     <li>Lockscreen smart space<li/>
-                     <li>Google bar in launcher dock<li/>
-                     <li>3rd party apps themed icons<li/>
-                     <li>Double tap to sleep<li/>
-                     <li>Statusbar icon manager<li/>",
-            "info_brief": "This update adds new features, stability improvements, as well as fixes critical bugs. You can find more information about this update by tapping below or visiting <b>paranoidandroid.co/changelog<b/>"
+            "romtype": "Beta",
+            "number": "1",
+            "id": "2022-13-11-aospa-topaz-beta",
+            "info": "",
+            "info_brief": "<b>Paranoid Android Topaz 1 Beta</b>
+            <br><br>This update adds stability improvements, as well as fixes critical bugs. Learn more at <a href=\"https://paranoidandroid.co/changelog\">paranoidandroid.co/changelog</a><br><br>"
         }
     ]
 }

@@ -1,15 +1,17 @@
 {
   "updates": [
     {
-                  "date": "2022-09-26",
-                  "datetime": "20220926",
-                  "filename": "aospa-topaz-3-alioth-alpha-20220926.zip",
-                  "url": "https://drive.angerycat.workers.dev/aospa-topaz-3-alioth-alpha-20220926.zip",
-                  "id": "806e4302f118feeadac47df39ecb23a6",
-                  "size": "1799127744",
-                  "romtype": "Alpha",
-                  "number" : "3",
-                  "version": "Topaz"
+      "date": "2022-13-11",
+      "datetime": "1668338439",
+      "filename": "aospa-topaz-beta-1-alioth-20221113.zip",
+      "url": "https://drive.genos-drive.workers.dev/aospa-topaz-beta-1-alioth-20221113.zip",
+      "id": "a68db566c47e030c49854e58be3da29731bcc1dfba48e4e2cee860d2bc66bb1c",
+      "size": "2118792083",
+      "romtype": "Beta",
+      "number": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2022-11-05"
     }
-  ]
+   ]
 }
