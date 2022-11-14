@@ -3,10 +3,10 @@
         {
             "version": "Topaz",
             "romtype": "Beta",
-            "number": "1",
-            "id": "2022-13-11-aospa-topaz-beta",
+            "number": "2",
+            "id": "2022-14-11-aospa-topaz-beta",
             "info": "",
-            "info_brief": "<b>Paranoid Android Topaz 1 Beta</b>
+            "info_brief": "<b>Paranoid Android Topaz Beta 2</b>
             <br><br>This update adds stability improvements, as well as fixes critical bugs. Learn more at <a href=\"https://paranoidandroid.co/changelog\">paranoidandroid.co/changelog</a><br><br>"
         }
     ]
