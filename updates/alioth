@@ -1,17 +1,18 @@
 {
   "updates": [
     {
-      "date": "2022-15-11",
-      "datetime": "1668495522",
-      "filename": "aospa-topaz-beta-2-alioth-20221115-delta.zip",
-      "url": "https://drive.angerycat.workers.dev/Aria/aospa-topaz-beta-2-alioth-20221115-delta.zip",
-      "id": "aafa166c004652f77804963224a3fb4270a7ec4577ee99f8271d04fdb504f733",
-      "size": "34263438",
-      "romtype": "Beta",
-      "number": "2",
+      "date": "2022-11-16",
+      "datetime": "1668595372",
+      "filename": "aospa-topaz-beta-2-alioth-20221116-delta.zip",
+      "url": "https://drive.angerycat.workers.dev/Aria/aospa-topaz-beta-2-alioth-20221116-delta.zip",
+      "id": "f9ebed5860e6d4c918cc90846d13712a603f08b4e9bc6a0a34e140256624744c",
+      "size": "74831256",
+      "build_type": "Beta",
+      "version_code": "2",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-11-05"
+      "android_spl": "2022-11-05",
+      "changelog_device": "Initial beta release"
     }
    ]
 }
