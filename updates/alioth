@@ -2,11 +2,11 @@
   "updates": [
     {
       "date": "2022-12-18",
-      "datetime": "1671368604",
+      "datetime": "1671379406",
       "filename": "aospa-topaz-unofficial-alioth-20221218-delta.zip",
       "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20221218-delta.zip",
-      "id": "79c5c1361d4eea1f5e2663c585bdd76fc2b9cc7a66f8cb3da82d373d9b81915a",
-      "size": "215817126",
+      "id": "185534e830d7b432ec9bd47fc471e265c255be6595e52192e6162f1490583cd8",
+      "size": "6083630",
       "build_type": "Unofficial",
       "version_code": "1",
       "version": "Topaz", 
