@@ -11,7 +11,8 @@
       "version_code": "2",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-12-05"
+      "android_spl": "2022-12-05",
+      "changelog_device": "Fixed Hotseat Padding"
     },
     {
       "date": "2022-11-16",
