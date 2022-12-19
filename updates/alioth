@@ -2,17 +2,16 @@
   "updates": [
     {
       "date": "2022-12-19",
-      "datetime": "1671466107",
-      "filename": "aospa-topaz-unofficial-alioth-20221218-delta.zip",
+      "datetime": "1671434827",
+      "filename": "aospa-topaz-unofficial-alioth-20221219-delta.zip",
       "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20221218-delta.zip",
-      "id": "185534e830d7b432ec9bd47fc471e265c255be6595e52192e6162f1490583cd8",
-      "size": "6083630",
+      "id": "347a5c65b02ba508127228a6b7c0efab2306add78948148e89ecfda0d895a505",
+      "size": "9942920",
       "build_type": "Unofficial",
-      "version_code": "2",
+      "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-12-05",
-      "changelog_device": "Fixed Hotseat Padding"
+      "android_spl": "2022-12-05"
     }
    ]
 }
