@@ -1,17 +1,18 @@
 {
   "updates": [
     {
-      "date": "2022-12-19",
-      "datetime": "1671434827",
-      "filename": "aospa-topaz-unofficial-alioth-20221219-delta.zip",
-      "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20221218-delta.zip",
-      "id": "347a5c65b02ba508127228a6b7c0efab2306add78948148e89ecfda0d895a505",
-      "size": "9942920",
+      "date": "2023-01-03",
+      "datetime": "1672769861",
+      "filename": "aospa-topaz-unofficial-alioth-20230103-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20230103-delta.zip",
+      "id": "547e947221af63f3710378f2326a2109cce416ad9d114c05faac4d7502fbf4af",
+      "size": "112940088",
       "build_type": "Unofficial",
       "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-12-05"
+      "android_spl": "2022-12-05",
+      "changelog_device": "Improved system stability and enhanced performance"
     }
    ]
 }
