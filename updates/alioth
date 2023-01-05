@@ -1,18 +1,18 @@
 {
   "updates": [
     {
-      "date": "2023-01-03",
-      "datetime": "1672769861",
-      "filename": "aospa-topaz-unofficial-alioth-20230103-delta.zip",
-      "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20230103-delta.zip",
-      "id": "547e947221af63f3710378f2326a2109cce416ad9d114c05faac4d7502fbf4af",
-      "size": "112940088",
+      "date": "2023-01-05",
+      "datetime": "1672895402",
+      "filename": "aospa-topaz-unofficial-alioth-20230105-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20230105-delta.zip",
+      "id": "82e2709406ab29a14d89336d624cedd9b39eb66629ebbaa797a12a336f1d7324",
+      "size": "15399332",
       "build_type": "Unofficial",
       "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2022-12-05",
-      "changelog_device": "Improved system stability and enhanced performance"
+      "android_spl": "2023-01-05",
+      "changelog_device": "Disable QPR2 headers temporarily"
     }
    ]
 }
