@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2023-01-09",
+      "datetime": "1673250985",
+      "filename": "aospa-topaz-unofficial-alioth-20230109-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/aospa-topaz-unofficial-alioth-20230105-delta.zip",
+      "id": "c055e97cc1c5217b0164c146fd9472599d0ac4c750ee7552c083d01a732faf9d",
+      "size": "68705039",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Fixed L1 in Netflix, Re-enabled new QuickSettings headers, Added Camera/Flashlight affordance if no other buttons are present, Add RGB Sliders to Display Modes"
+    },
+    {
       "date": "2023-01-05",
       "datetime": "1672895402",
       "filename": "aospa-topaz-unofficial-alioth-20230105-delta.zip",
