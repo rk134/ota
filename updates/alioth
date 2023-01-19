@@ -1,9 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-01-19",
+      "datetime": "1674137475",
+      "filename": "aospa-topaz-unofficial-alioth-20230119-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230119-delta.zip",
+      "id": "2d61f67d3ecbd507ae74c2914f2f479b743684cd1d502174288ac75443e075c5",
+      "size": "27076455",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Re-introduce Light QuickSettings"
+    },
+    {
       "date": "2023-01-18",
       "datetime": "1674035954",
-      "filename": "aospa-topaz-unofficial-alioth-20230105-delta.zip",
+      "filename": "aospa-topaz-unofficial-alioth-20230118-delta.zip",
       "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230118-delta.zip",
       "id": "217a71d967c1ea54b9520b64c32ed83b3bd0129eb603518682d89eaceee4d776",
       "size": "74065994",
