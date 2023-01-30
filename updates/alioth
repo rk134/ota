@@ -2,6 +2,20 @@
   "updates": [
     {
       "date": "2023-01-19",
+      "datetime": "1675086188",
+      "filename": "aospa-topaz-unofficial-alioth-20230130-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230130-delta.zip",
+      "id": "178b77860305dac1e2e50dc3d43de62bc6db553d8f782584ac351ba4d577f849",
+      "size": "52475104",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Fixes for high power consumption in AoD. Various bugfixes and stability improvements."
+    },
+    {
+      "date": "2023-01-19",
       "datetime": "1674137475",
       "filename": "aospa-topaz-unofficial-alioth-20230119-delta.zip",
       "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230119-delta.zip",
