@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2023-02-05",
+      "datetime": "1675584371",
+      "filename": "aospa-topaz-unofficial-alioth-20230205.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230205.zip",
+      "id": "125eee78debc00ca163cfea16ce68e22bed428a88b2ac59d276889365115ef70",
+      "size": "2064148941",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Merge Feb SPL. Rebase on CLO QPR1 source."
+    },
+    {
       "date": "2023-01-19",
       "datetime": "1675086188",
       "filename": "aospa-topaz-unofficial-alioth-20230130-delta.zip",
