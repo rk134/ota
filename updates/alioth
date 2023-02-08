@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2023-02-08",
+      "datetime": "1675880998",
+      "filename": "aospa-topaz-unofficial-alioth-20230208-delta.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230208-delta.zip",
+      "id": "e80ee106e6d5583489ad0bc924459999e83e6cc2a3c2d0058027a6da1abb9462",
+      "size": "20991525",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Various bugfixes and stability improvements."
+    },
+    {
       "date": "2023-02-05",
       "datetime": "1675584371",
       "filename": "aospa-topaz-unofficial-alioth-20230205.zip",
