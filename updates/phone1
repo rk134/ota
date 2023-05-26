@@ -2,11 +2,11 @@
   "updates": [
     {
       "date": "2023-05-25",
-      "datetime": "1684996106",
+      "datetime": "1685005318",
       "filename": "aospa-topaz-unofficial-phone1-20230525.zip",
       "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-phone1-20230525.zip",
-      "id": "d1defefafa4cba075f57b88a7783244e01317926a7cefacd7aa59d4554d118dc",
-      "size": "2149373802",
+      "id": "3923e1625baff0b83262353fd8fa99b63c8d140a265b11b6923d112b4db57397",
+      "size": "2149365713",
       "build_type": "Unofficial",
       "version_code": "1",
       "version": "Topaz",
