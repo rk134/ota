@@ -1,17 +1,17 @@
 {
   "updates": [
     {
-      "date": "2023-06-06",
+      "date": "2023-06-08",
       "datetime": "1686196754",
       "filename": "aospa-topaz-unofficial-alioth-20230606.zip",
-      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230606.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230608.zip",
       "id": "b8bd94280f375968f3a26bfafb8042382d8c57106045ebb0adcb1ff786c3ac7f",
       "size": "2144859760",
       "build_type": "Unofficial",
       "version_code": "1",
       "version": "Topaz",
       "android_version": "13",
-      "android_spl": "2023-02-05",
+      "android_spl": "2023-05-05",
       "changelog_device": "Fix hotspot."
     },
     {
@@ -25,7 +25,7 @@
       "version_code": "1",
       "version": "Topaz",
       "android_version": "13",
-      "android_spl": "2023-02-05",
+      "android_spl": "2023-05-05",
       "changelog_device": "Make sure to flash MIUI14 firmware"
     },
     {
