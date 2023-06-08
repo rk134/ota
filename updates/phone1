@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2023-06-08",
+      "datetime": "1686243301",
+      "filename": "aospa-topaz-unofficial-phone1-20230608.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-phone1-20230608.zip",
+      "id": "8730f1eb76cecbd4941d544738a6759226f6915a21c4ddc389648d3a1d5ede0d",
+      "size": "2241367729",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "https://t.me/aospa_gotenks_updates/58"
+    },
+    {
       "date": "2023-05-31",
       "datetime": "1685528917",
       "filename": "aospa-topaz-unofficial-phone1-20230531.zip",
