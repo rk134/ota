@@ -1,7 +1,21 @@
 {
   "updates": [
     {
-      "date": "2023-06-12",
+      "date": "2023-06-27",
+      "datetime": "1687844598",
+      "filename": "aospa-topaz-unofficial-alioth-20230627.zip",
+      "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230627.zip",
+      "id": "9e464cd2e58276af43c6ada22c51fa35db30c9824e2a8079db878aca7cc9d354",
+      "size": "2151712243",
+      "build_type": "Unofficial",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "https://t.me/aospa_gotenks_updates/76"
+    },
+    {
+      "date": "2023-06-22",
       "datetime": "1687454734",
       "filename": "aospa-topaz-unofficial-alioth-20230622.zip",
       "url": "https://mirror.codebucket.de/gotenks/unofficial/aospa-topaz-unofficial-alioth-20230622.zip",
