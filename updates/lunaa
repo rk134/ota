@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2023-07-02",
+      "datetime": "1688236899",
+      "filename": "aospa-topaz-alpha-4-lunaa-20230701-1841.zip",
+      "url": "https://index.sauraj.eu.org/api/raw/?path=/Public%2Frk134-aospa-unofficial/aospa-topaz-alpha-4-lunaa-20230701-1841.zip",
+      "id": "4e062db061a8f1a3682535dbe92ec2c1f9d728e68771e59cdc88064224f3aaaf",
+      "size": "2391416553",
+      "build_type": "Unofficial",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-06-05",
+      "changelog_device": "https://t.me/rk134support/39617"
+    },
+    {
       "date": "2023-07-01",
       "datetime": "1688207489",
       "filename": "aospa-topaz-alpha-4-lunaa-20230701-1031.zip ",
